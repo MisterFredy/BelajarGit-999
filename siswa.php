@@ -32,4 +32,5 @@ $data = $siswa->readAllsiswa();
 		<td><a href="usiswa.php?id=<?php echo $a['id_siswa']?>">Edit</a></td>
 	</tr>
 	<?php endforeach?>
+	//testing komentar
 </table>
