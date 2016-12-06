@@ -9,6 +9,7 @@ $data = $siswa->readAllsiswa();
 
 ?>
 
+//u siswa
 <table border="1">
 	<tr>
 		<th>NIS</th>
